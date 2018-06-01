@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "animate.css": "^3.6.1",
+    "impress.js": "^1.0.0",
     "iview": "^2.14.1",
     "vue": "^2.5.16",
     "vue-router": "^3.0.1"
